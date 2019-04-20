@@ -1,1 +1,1 @@
-# InfomationProtectionPrograming
+# InformationProtectionPrograming
